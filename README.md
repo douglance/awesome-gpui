@@ -20,6 +20,7 @@
 - [Loungy](https://github.com/MatthiasGrandl/loungy): App launcher in the vein of Spotlight, Alfred, Raycast.
 - [pgui](https://github.com/duanebester/pgui): A GUI to query & manage postgres databases.
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
+- [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
 
 ## Libraries
 
